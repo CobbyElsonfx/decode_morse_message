@@ -164,7 +164,7 @@ Run rubocop on your VS Code terminal.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Rafiduzzaman/vet-clinic/issues).
+Feel free to check the [issues page](https://github.com/CobbyElsonfx/decode_morse_message/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
