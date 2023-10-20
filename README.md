@@ -131,7 +131,7 @@ Run rubocop on your VS Code terminal.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤**Jose Luis Berbesí**
+👤**Jose Luis Berbesí Lopera**
 
 - GitHub: [@githubhandle](https://github.com/jlberbesi)
 - Twitter: [@twitterhandle](https://twitter.com/imberbesi)
